@@ -1,0 +1,39 @@
+{
+    "swagger": "2.0",
+    "swaggerDefination" : {
+        "info": {
+            "title": "Swagger API Documentation",
+            "description": "Swagger API Documentation",
+            "version": "1.0"
+          }
+    },
+    "produces": ["application/json"],
+    "paths": {
+      "/getDesignation": {
+        "post": {
+          "x-swagger-router-controller": "empdesignationdetails",
+          "operationId": "getDesignation",
+          "tags": ["Get Employee Designation Details"],
+          "description": "To Get Listing Of Employees Designations.",
+          "parameters": [
+            {
+              "in": "body",
+              "name": "body",
+              "schema": {
+                "type": "object" ,
+                "properties": {
+                  "limit": {
+                    "type": "integer"
+                  },
+                  "offset": {
+                    "type": "integer"
+                  }
+                }              
+              }
+            }
+          ],
+          "responses": {}
+        }
+      }
+    }
+ }

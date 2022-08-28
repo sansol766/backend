@@ -1,0 +1,44 @@
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:07:27, errorname : TypeError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : [object Array] is not a function[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:36:45, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Unrecognized pipeline stage name: '$where'[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:38:04, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designation_name: "$designationDetails.designation_name", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:38:48, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designation_name: "$designationDetails.designation_name", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:42:38, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designation_name: "$designationDetails.createdAt", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:47:31, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designation_name: "$designationDetails.designation_name", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 17:51:24, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, hjhjj: "$designationDetails.designation_name", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 18:08:02, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, hjhjj: "designationDetails.designation_name", __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 18:08:38, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designationDetails.designation_name: 1, __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 18:08:59, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Invalid $project :: caused by :: FieldPath field names may not start with '$'.[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 18:10:47, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designationDetails.designation_name: 1, __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/20 18:15:04, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Bad projection specification, cannot include fields or add computed fields during an exclusion projection: { _id: false, phone: false, email: false, country: false, updatedat: false, createdat: false, designationDetails.designation_name: 1, __v: false }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m

@@ -1,0 +1,31 @@
+[42m[1m{[22m[49m
+[42m[1m  message: 'Server started and running on http://localhost:8888',[22m[49m
+[42m[1m  level: 'warn'[22m[49m
+[42m[1m}[22m[49m
+[31m[1m{[22m[39m
+[31m[1m  input: '13.234.154.219:27017',[22m[39m
+[31m[1m  code: 'ERR_INVALID_URL',[22m[39m
+[31m[1m  level: 'info',[22m[39m
+[31m[1m  message: 'Cannot connect to the database! Invalid URL',[22m[39m
+[31m[1m  stack: 'TypeError [ERR_INVALID_URL]: Invalid URL\n' +[22m[39m
+[31m[1m    '    at new NodeError (node:internal/errors:371:5)\n' +[22m[39m
+[31m[1m    '    at onParseError (node:internal/url:552:9)\n' +[22m[39m
+[31m[1m    '    at new URL (node:internal/url:628:5)\n' +[22m[39m
+[31m[1m    '    at isAtlas (/home/sanadpadvekar/projects/myproj/BEAPI/node_modules/mongoose/lib/helpers/topology/isAtlas.js:17:17)\n' +[22m[39m
+[31m[1m    '    at MongooseServerSelectionError.assimilateError (/home/sanadpadvekar/projects/myproj/BEAPI/node_modules/mongoose/lib/error/serverSelection.js:35:35)\n' +[22m[39m
+[31m[1m    '    at /home/sanadpadvekar/projects/myproj/BEAPI/node_modules/mongoose/lib/connection.js:825:36\n' +[22m[39m
+[31m[1m    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)'[22m[39m
+[31m[1m}[22m[39m
+[42m[1m{[22m[49m
+[42m[1m  message: 'Server started and running on http://localhost:8888',[22m[49m
+[42m[1m  level: 'warn'[22m[49m
+[42m[1m}[22m[49m
+[31m[1m{[22m[39m
+[31m[1m  message: 'level : info, datetime : 2022/07/07 16:16:31, errorname : ReferenceError, payload : [object Object], filename : EmpDesignation.controller.js, apiname : /saveDesignation, errordescription : tugwuh is not defined',[22m[39m
+[31m[1m  level: 'info'[22m[39m
+[31m[1m}[22m[39m
+undefined
+[42m[1m Server started and running on http://localhost:8888[22m[49m
+[31m[1m level : info, datetime : 2022/07/07 16:17:55, errorname : ReferenceError, payload : [object Object], filename : EmpDesignation.controller.js, apiname : /saveDesignation, errordescription : tugwuh is not defined[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[31m[1mlevel : info, datetime : 2022/07/07 16:34:12, errorname : ReferenceError, payload : [object Object], filename : EmpDesignation.controller.js, apiname : /saveDesignation, errordescription : tugwuh is not defined[22m[39m

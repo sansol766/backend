@@ -1,0 +1,3 @@
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/19 15:48:11, errorname : TypeError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : [EmpDetailsTable,designationDetails].aggregate is not a function[22m[39m

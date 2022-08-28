@@ -1,0 +1,130 @@
+{
+    "swagger": "2.0",
+    "swaggerDefination" : {
+        "info": {
+            "title": "Swagger API Documentation",
+            "description": "Swagger API Documentation",
+            "version": "1.0"
+          }
+    },
+    "produces": ["application/json"],
+    "paths": {
+      "/getEmpDetails": {
+        "post": {
+          "x-swagger-router-controller": "empdetails",
+          "operationId": "getEmpDetails",
+          "tags": ["Get Employee Details"],
+          "description": "To Get Listing Of Employees.",
+          "parameters": [
+            {
+              "in": "body",
+              "name": "body",
+              "schema": {
+                "type": "object" ,
+                "properties": {
+                  "limit": {
+                    "type": "integer"
+                  },
+                  "offset": {
+                    "type": "integer"
+                  },
+                  "name": {},
+                  "phone": {},
+                  "email": {},
+                  "fromdate": {
+                    "format" : "date"
+                  }
+                }              
+              }
+            }
+          ],
+          "responses": {}
+        }
+      },
+      "/saveEmpDetails": {
+        "post": {
+          "x-swagger-router-controller": "empdetails",
+          "operationId": "saveEmpDetails",
+          "description": "To save Employee Details",
+          "tags": ["To save Employee Details"],
+          "parameters": [
+            {
+              "in": "body",
+              "name": "body",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "name": {},
+                  "phone": {},
+                  "email": {},
+                  "country": {},
+                  "password": {},
+                  "fromdate": {
+                    "format" : "date"
+                  }
+                } 
+              }
+            }
+          ],
+          "responses": {}
+        }
+      },
+      "/updateEmpDetails": {
+        "post": {
+          "x-swagger-router-controller": "empdetails",
+          "operationId": "updateEmpDetails",
+          "description": "Update List of Employee object",
+          "tags": ["To Update Employee Details"],
+          "parameters": [
+            {
+              "in": "body",
+              "name": "body",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "integer"
+                  },
+                  "designation_id" : {
+                    "type": "integer"
+                  },
+                  "name": {},
+                  "phone": {},
+                  "country": {},
+                  "createdat": {},
+                  "updatedat" : {}
+                } 
+              }
+            }
+          ],
+          "responses" : {}
+        }
+      },
+      "/getDesignation": {
+        "post": {
+          "x-swagger-router-controller": "empdesignationdetails",
+          "operationId": "getDesignation",
+          "tags": ["Get Employee Designation Details"],
+          "description": "To Get Listing Of Employees Designations.",
+          "parameters": [
+            {
+              "in": "body",
+              "name": "body",
+              "schema": {
+                "type": "object" ,
+                "properties": {
+                  "limit": {
+                    "type": "integer"
+                  },
+                  "offset": {
+                    "type": "integer"
+                  }
+                }              
+              }
+            }
+          ],
+          "responses": {}
+        }
+      }
+    }
+ }

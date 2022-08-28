@@ -1,0 +1,76 @@
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/08/17 16:42:51, errorname : ObjectParameterError, payload : [object Object], filename : EmpDesignation.controller.js, apiname : /getDesignation, errordescription : Parameter "filter" to find() must be an object, got [22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/08/17 16:44:06, errorname : ReferenceError, payload : [object Object], filename : EmpDesignation.controller.js, apiname : /getDesignation, errordescription : query is not defined[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m

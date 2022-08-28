@@ -1,0 +1,108 @@
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:15:44, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : Unsupported projection option: $project: { _id: 0 }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:20:52, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : >1 field in obj: { _id: 0, __v: 0 }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:21:35, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : >1 field in obj: { _id: 0, __v: 0 }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:21:44, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : Unsupported projection option: $project: { _id: 0 }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:22:40, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : Unsupported projection option: $project: { _id: 0 }[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/21 16:25:27, errorname : TypeError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /saveEmpDetails, errordescription : EmpDetailsTable.find(...).projection(...).then is not a function[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m

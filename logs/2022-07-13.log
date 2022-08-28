@@ -1,0 +1,10 @@
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/13 17:01:25, errorname : Error, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : Arguments must be aggregate pipeline operators[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[31m[1mlevel : info, datetime : 2022/07/13 17:13:06, errorname : MongoServerError, payload : [object Object], filename : EmpDetails.controller.js, apiname : /getEmpDetails, errordescription : unknown argument to $lookup: forignField[22m[39m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m
+[42m[1mServer started and running on http://localhost:8888[22m[49m
+[42m[1mConnected to the database![22m[49m

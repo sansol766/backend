@@ -1,0 +1,12 @@
+const express = require('express');
+const app = express.Router();
+const EmpDesignation = require('../../controller/Employee/EmpDesignation.controller.js');
+const EmpDetails = require('../../controller/Employee/EmpDetails.controller.js');
+const { verifyAuthKey } =  require('../../middlewares/jwtauth.js');
+app.post('/getDesignation',EmpDesignation.getDesignation);
+app.post('/saveDesignation',EmpDesignation.saveDesignation);
+app.post('/saveEmpDetails',EmpDetails.saveEmpDetails);
+app.post('/getEmpDetails',EmpDetails.getEmpDetails);
+app.post('/updateEmpDetails',EmpDetails.updateEmpDetails);
+app.post('/checkLogin',verifyAuthKey, EmpDetails.checkLogin);
+module.exports = app;
